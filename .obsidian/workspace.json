@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "13b5b4ab660c5906",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7e7914f2af9564b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eb37cc731856933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/psexec.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82cb2e307500a0e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/rpcclient.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1fdf234a72b9359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/LDAPSearch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10e11ecc3fb8934d",
+    "type": "split",
+    "children": [
+      {
+        "id": "25393d90c7ce270a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4e58b25c531e94c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "711634f7d8f16c60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67df7cb57fa44a79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "9c1a2dbe8c866c5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "085e8c637542cd76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde56df80afca076",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tools/LDAPSearch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f9603d03da12bcd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tools/LDAPSearch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51881cfef08d8ba7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7837f032a10b22f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tools/LDAPSearch.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c1fdf234a72b9359",
+  "lastOpenFiles": [
+    "Tools/smbmap.md",
+    "Tools/hashcat.md",
+    "GetNPUsers.py.md",
+    "Tools/LDAPSearch.md",
+    "Tools.md",
+    "Tools/rpcclient.md",
+    "Tools/Crackmapexec.md",
+    "Tools/secretsdump.py.md",
+    "Tools/Powerview.md",
+    "Tools/Rubeus.md",
+    "Powershell.md",
+    "Tools/mimikatz.md",
+    "setspn.exe.md",
+    "AD Enumeration.md",
+    "Active Directory.md",
+    "Tools/windapsearch.md",
+    "Tools/bloodhound.md",
+    "Tools",
+    "Tools/Winpeas.md",
+    "Tools/enum4linux-ng.md",
+    "Tools/Inviegh.md",
+    "Tools/fping.md",
+    "Tools/Responder.md",
+    "Tools/NMAP.md",
+    "Tools/kerbrute.md",
+    "Tools/enum4linux.md",
+    "Tools/DomainPasswordSpray.md"
+  ]
+}

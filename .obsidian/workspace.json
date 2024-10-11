@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "5ed6c772fa3a2083",
+    "type": "split",
+    "children": [
+      {
+        "id": "3754fbb80ae5bc70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa516a40117826e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Windows/winexe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8db51e8a649905fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Local PrivEsc Checklist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7bb03c31f7a5784",
+    "type": "split",
+    "children": [
+      {
+        "id": "457fc4dcb52d3818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "148752f861dcbbb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "243a10330827fe6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc21dca39feb1a2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "859cdd3201bf7c28",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aed669bab909456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "032a67ad1c0ff457",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows Local PrivEsc Checklist.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f06650eedf7ec6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Windows Local PrivEsc Checklist.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b087f2055350df53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a823d28c01ece09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Windows Local PrivEsc Checklist.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8db51e8a649905fd",
+  "lastOpenFiles": [
+    "Tools/Shells/plink.exe.md",
+    "Windows Local PrivEsc Checklist.md",
+    "Tools/Windows/winexe.md",
+    "Assets/Pasted image 20241010225741.png",
+    "Assets/Pasted image 20241010225715.png",
+    "Tools/Windows/Password Hunting.md",
+    "Tools/Shells/Untitled",
+    "Tools/File Transfers/HTTP server.md",
+    "Tools/File Transfers/certutil.md",
+    "Tools/File Transfers",
+    "Active Directory/AD Enumeration.md",
+    "Tools/Windows/windows-exploit-suggestor.py.md",
+    "Tools/Untitled.md",
+    "Tools/Shells/msfvenom.md",
+    "Tools/Passwords",
+    "Windows Privesc/SeTakeOwnershipPrivilege.md",
+    "Tools/Windows/takedown.md",
+    "Tools/Windows/Enable-Privilege.ps1.md",
+    "Assets/Pasted image 20241010142157.png",
+    "Windows Privesc/REC DeBugPriv.md",
+    "Assets/Pasted image 20241010131911.png",
+    "Assets/Pasted image 20241010132352.png",
+    "Tools/Windows/Poc Script.md",
+    "Tools/Passwords/cewl.md",
+    "Tools/Passwords/smbpasswd.md",
+    "Active Directory/Change AD passwords.md",
+    "Windows Privesc/LSASS Dump.md",
+    "Active Directory",
+    "Assets",
+    "Assets/Pasted image 20241010130656.png",
+    "Tools/Passwords/hashcat.md",
+    "Tools/Windows/Mimikatz.md",
+    "Tools/Windows/Procdump.md",
+    "Tools/Crackmapexec.md",
+    "Tools/Windows/secretsdump.py.md",
+    "Tools/Windows/Accesschk.md",
+    "Tools/Windows",
+    "Tools/Windows/PrintSpoofer.exe.md",
+    "Tools",
+    "Tools/Shells",
+    "MISC",
+    "Windows Privesc"
+  ]
+}
